@@ -1,0 +1,136 @@
+
+1.
+When a 15 V input pulse with a width equal to two time constants is applied to an RC integrator, the capacitor charges to
+15 V
+12.9 V
+8.6 V
+19.45 V
+Answer: Option D
+
+2.
+An integrator consists of a 3.3 k resistor and a 2 F capacitor. A single 30 V, 6 ms pulse is applied to the input. How much will the capacitor charge?
+10.3 V
+30 V
+12.09 V
+17.91 V
+Answer: Option D
+3.
+With an RL integrator, at the instant of the rising pulse edge,
+all the input voltage is across the resistor
+all the input voltage is across the inductor
+63 percent of the input voltage is across the resistor
+63 percent of the input voltage is across the inductor
+Answer: Option B
+
+4.
+When a 12 V input pulse with a width equal to one time constant is applied to an RC integrator, the capacitor charges to
+0 V
+12 V
+6.3 V
+7.56 V
+Answer: Option D
+ 
+5.
+A steady-state condition is reached when
+the output voltage reaches the average value of the input voltage
+the output voltage reaches the input voltage
+the output voltage reaches approximately 63% of the input voltage
+the output voltage reaches the effective value of the input voltage
+Answer: Option A
+
+6.
+A single 6 V pulse with a width of 600 s is applied to an integrator consisting of a 150 k resistor and a 0.002 F capacitor. To what voltage will the capacitor charge?
+0 V
+3.78 V
+5.16 V
+6 V
+Answer: Option C
+
+6
+To understand how the output voltage is shaped by a differentiator, you must consider
+the response to the rising pulse edge
+the response between the rising and falling edges
+the response to the falling pulse edge
+all of the above
+Answer: Option D
+
+7
+An RC differentiator acts as a
+low-pass filter
+high-pass filter
+band-pass filter
+band-stop filter
+Answer: Option D
+
+
+8
+In an RL differentiator, when the input pulse goes from its low level to its high level,
+the inductor prevents a sudden change in voltage
+the inductor prevents a sudden change in current
+voltage across the inductor instantly reaches 63% of input voltage
+voltage across the inductor is zero
+Answer: Option B
+
+9.
+
+In an RC differentiator, responding to repetitive pulses, the average value of the output
+is zero
+is equal to the input voltage
+is 63 percent of the input voltage
+cannot be determined
+
+Answer:Option A
+
+10.
+The output of an RC integrator is taken across the
+diode
+capacitor
+resistor
+source
+Answer: Option B
+
+11.
+In an RC differentiator, the sum of the capacitor voltage and the resistor voltage at any instant
+must be zero
+must be equal to the applied voltage
+is less than the applied voltage but greater than zero
+cannot be determined
+Answer: Option B
+
+12.
+When a 24 V input pulse with a width equal to five time constants is applied to an RC integrator, the capacitor charges to
+24 V
+15.12 V
+20.64 V
+12 V
+Answer: Option A
+
+13.
+If the RC time constant of an integrator is increased, as the time constant is increased
+the capacitor charges more during a pulse and discharges less between pulses
+the capacitor charges less during a pulse and discharges more between pulses
+the capacitor charges more during a pulse and discharges more between pulses
+the capacitor charges less during a pulse and discharges less between pulses
+Answer: Option D
+
+14.What is the highest frequency contained in a pulse that has a rise and fall time equal to 10 microseconds (10 s)?
+35 kHz
+3.5 kHz
+10 kHz
+100 kHz
+Answer: Option A
+
+
+
+
+15.In an RC differentiator, the capacitor
+charges exponentially at a rate depending on the RC time constant
+charges exponentially at a rate depending on the input voltage
+charges when the input voltage is decreasing
+charges to approximately one time constant
+Answer: Option A
+
+
+
+
+

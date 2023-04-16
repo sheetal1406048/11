@@ -1,0 +1,130 @@
+1.A certain current source has the values IS = 4 µA and RS = 1.2 M. The values for an equivalent voltage source are
+4.8 V, 1.2 M
+1 V, 1.2 M
+4.8 V, 4.8 M
+4.8 V, 1.2 M
+Answer: Option B
+
+
+2.A 680  load resistor, RL, is connected across a constant current source of 1.2 A. The internal source resistance, RS, is 12 k. The load current, RL, is
+0 A
+1.2 A
+114 mA
+1.14 A
+Answer: Option B
+
+
+3. A 120 V voltage source has a source resistance, RS, of 60 . The equivalent current source is
+2 A
+4 A
+200 mA
+400 mA
+Answer: Option A
+
+4.
+A 12 V source has an internal resistance of 90 . If a load resistance of 20  is connected to the voltage source, the load power, PL, is
+2.38 mW
+2.38 W
+238 mW
+23.8 W
+Answer: Option C
+
+5.In a two-source circuit, one source acting alone produces 12 mA through a given branch. The other source acting alone produces 10 mA in the opposite direction through the same branch. The actual current through the branch is
+22 mA
+12 mA
+10 mA
+2 mA
+Answer: Option B
+
+
+6.A 470  RL is connected across a voltage source, VS, of 120 V. The source's internal resistance, RS, is 12 . What is the output voltage across the load?
+120 V
+0 V
+117 V
+12 V
+Answer: Option C
+
+7.A 2  RL is connected across a voltage source, VS, of 110 V. The source's internal resistance is 24 . What is the output voltage across the load?
+8.5 V
+85 V
+0 V
+110 V
+Answer: Option A
+
+8.
+A 120  load is connected across a voltage source with VS = 12 V and RS = 8 . The voltage across the load is
+0 V
+12 V
+1.13 V
+11.25 V
+Answer: Option D
+
+9.
+A 12 mA current source has an internal resistance, RS, of 1.2 k. The equivalent voltage source is
+144 V
+7.2 V
+14.4V
+72 mV
+Answer: Option C
+
+10.
+In the complex plane, the number 14 – j5 is located in the
+first quadrant
+second quadrant
+third quadrant
+fourth quadrant
+Answer: Option B
+
+11.
+Point +4 on the complex plane is
+4 units above the origin on the j axis
+4 units below the origin on the j axis
+4 units right of the origin on the real axis
+4 units left of the origin on the real axis
+Answer: Option C
+
+12.A 470  resistor and a 0.2 F capacitor are in parallel across a 2.5 kHz ac source. The admittance, Y, in rectangular form, is
+212 
+2.12 mS + j3.14 mS
+3.14 mS + j2.12 mS
+318.3 
+Answer: Option B
+
+13.
+A positive angle of 30° is equivalent to a negative angle of
+–30°
+–330°
+–60°
+–180°
+Answer: Option C
+
+14.
+In a series RC circuit, 12 V(rms) is measured across the resistor and 15 V(rms) is measured across the capacitor. The rms source voltage is
+3 V
+27 V
+19.2 V
+1.9 V
+Answer: Option C
+
+15.
+When the frequency of the source voltage decreases, the impedance of a parallel RC circuit
+increases
+decreases
+does not change
+decreases to zero
+Answer: Option A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
